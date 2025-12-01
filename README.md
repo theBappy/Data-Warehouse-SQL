@@ -242,7 +242,7 @@ SELECT * FROM gold.fact_sales;
 
 ---
 
-**Author:** theBappy
-**Date:** 2025-12-01
+**Author:** theBappy<br>
+**Date:** 2025-12-01<br>
 **Project:** Data Warehouse with MSSQL Server
-# Data-Warehouse-SQL
+
