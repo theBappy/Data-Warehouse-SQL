@@ -5,7 +5,7 @@ This project demonstrates a complete end-to-end **data warehouse implementation*
 
 ---
 ## 🖼 Architectural Diagram
-<img width="1024" height="1024" alt="image-1" src="https://github.com/user-attachments/assets/45096308-6085-4c6a-bf90-c3ab366cd857" />
+<img width="1024" height="1024" alt="image-1" src="https://github.com/user-attachments/assets/207fdd64-5954-4700-91fc-049c3ed4b8e3" />
 
 ---
 
@@ -28,8 +28,7 @@ This project demonstrates a complete end-to-end **data warehouse implementation*
 ---
 
 ## 📖 Project Overview
-
-![image-2](https://github.com/user-attachments/assets/bd640b05-13b1-4d0d-8440-eb5445164366)
+![image-2](https://github.com/user-attachments/assets/ea04bb58-c22c-49f5-b274-53165e3f64ed)
 
 **Purpose:** Build a modern data warehouse using **Medallion Architecture** for CRM & ERP systems.
 
