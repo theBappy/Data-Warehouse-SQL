@@ -1,6 +1,6 @@
 # 📊 Data Warehouse & Analytics Project
 
-/* 4@Blue$Skies&9#Clouds */
+
 
 🚀 **Comprehensive Data Warehousing & Analytics Solution**<br>
 This project demonstrates a complete end-to-end **data warehouse implementation** — from raw data ingestion to actionable business insights. It follows industry best practices in **Data Engineering, ETL, Data-Cleansing, Data Modeling, and Analytics**.
